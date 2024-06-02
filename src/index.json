@@ -1,0 +1,11 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "./hero_img.jpg",
+        "title": "Front-End",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      }
+    
+    ]
+  }
